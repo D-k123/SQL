@@ -1,1 +1,11 @@
+                                              Section A — Concept Application
+
+Q1
+Explain which strategy you would choose to handle the missing values in
+'delivery_time_mins' — dropping rows versus imputation with mean or median — and justify your
+reasoning based on the percentage of missing data and skewness of delivery times. Also
+describe the exact Pandas steps needed to fix the 'customer_rating' column type before any
+analysis is performed
+
+
 
